@@ -1,0 +1,39 @@
+.login-section{
+    background-color: rgba(30, 37, 49, 0.74);
+}
+.small-para a{
+    text-decoration: none;
+    color: white;
+}
+.small-para{
+    font-size: 12px;
+}
+.from-body{
+    background-color: rgba(36,37,40,.88);;
+}
+.input-field input::placeholder {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.411);
+}
+input,
+.input-field{
+    outline: none;
+    background: rgba(36,37,40,.75);
+    color: white;
+}
+.input-icon{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.719);
+    margin-right: 20px;
+}
+.login-btn{
+    background-color: #6eb800;
+    outline: none;
+    border: none;
+}
+.login-footer span{
+    font-size: 14px;
+}
+.privecy-policy span{
+    color: #6eb800;
+}
